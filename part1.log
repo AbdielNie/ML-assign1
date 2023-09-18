@@ -1,0 +1,537 @@
+INFO:root:Epoch 0, Training MSE: 0.17834022989972526
+INFO:root:Epoch 100, Training MSE: 0.17332448549246812
+INFO:root:Epoch 200, Training MSE: 0.17274170613369855
+INFO:root:Epoch 300, Training MSE: 0.17171947944731336
+INFO:root:Epoch 400, Training MSE: 0.1726971411064208
+INFO:root:Epoch 500, Training MSE: 0.17506056202119952
+INFO:root:Epoch 600, Training MSE: 0.177304091503943
+INFO:root:Epoch 700, Training MSE: 0.1741238085113747
+INFO:root:Epoch 800, Training MSE: 0.1726499560017463
+INFO:root:Epoch 900, Training MSE: 0.17219100629164555
+INFO:root:Trial with learning_rate=0.01, epochs=1000, Test MSE=0.2647058823529412
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.76      0.70       113
+           1       0.81      0.72      0.76       159
+
+    accuracy                           0.74       272
+   macro avg       0.73      0.74      0.73       272
+weighted avg       0.75      0.74      0.74       272
+
+INFO:root:Epoch 0, Training MSE: 0.1747833995633995
+INFO:root:Epoch 100, Training MSE: 0.17318729873664424
+INFO:root:Epoch 200, Training MSE: 0.17273504178496002
+INFO:root:Epoch 300, Training MSE: 0.17260177742647603
+INFO:root:Epoch 400, Training MSE: 0.17249718604947276
+INFO:root:Epoch 500, Training MSE: 0.17227801972517245
+INFO:root:Epoch 600, Training MSE: 0.17323429685194264
+INFO:root:Epoch 700, Training MSE: 0.17255376583326945
+INFO:root:Epoch 800, Training MSE: 0.17323398614517635
+INFO:root:Epoch 900, Training MSE: 0.1732248435559646
+INFO:root:Epoch 1000, Training MSE: 0.1731619725321565
+INFO:root:Epoch 1100, Training MSE: 0.17401299094741962
+INFO:root:Epoch 1200, Training MSE: 0.17172586796829817
+INFO:root:Epoch 1300, Training MSE: 0.17180053447841068
+INFO:root:Epoch 1400, Training MSE: 0.17328218093808653
+INFO:root:Trial with learning_rate=0.01, epochs=1500, Test MSE=0.27941176470588236
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+           0       0.64      0.73      0.69       113
+           1       0.79      0.71      0.75       159
+
+    accuracy                           0.72       272
+   macro avg       0.72      0.72      0.72       272
+weighted avg       0.73      0.72      0.72       272
+
+INFO:root:Epoch 0, Training MSE: 0.17443212472947325
+INFO:root:Epoch 100, Training MSE: 0.17260754238135237
+INFO:root:Epoch 200, Training MSE: 0.17297744026436038
+INFO:root:Epoch 300, Training MSE: 0.17276594000939308
+INFO:root:Epoch 400, Training MSE: 0.1719333389008556
+INFO:root:Epoch 500, Training MSE: 0.17347780546330258
+INFO:root:Epoch 600, Training MSE: 0.1740817136944539
+INFO:root:Epoch 700, Training MSE: 0.17330842301370397
+INFO:root:Epoch 800, Training MSE: 0.17427547674577326
+INFO:root:Epoch 900, Training MSE: 0.17215460370269922
+INFO:root:Epoch 1000, Training MSE: 0.17306801109931047
+INFO:root:Epoch 0, MSE: 0.23272791094884818
+INFO:root:Epoch 100, MSE: 0.059720015892821304
+INFO:root:Epoch 200, MSE: 0.04428873309322543
+INFO:root:Epoch 300, MSE: 0.03708866173809223
+INFO:root:Epoch 400, MSE: 0.03291787308689609
+INFO:root:Epoch 500, MSE: 0.030056103436151074
+INFO:root:Epoch 600, MSE: 0.02793068819401894
+INFO:root:Epoch 700, MSE: 0.026685006894001804
+INFO:root:Epoch 800, MSE: 0.02476180349040999
+INFO:root:Epoch 900, MSE: 0.02361687230352087
+INFO:root:Trial with learning_rate=0.01, epochs=1000, MSE=0.01838235294117647
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      0.98      0.98       138
+        True       0.98      0.99      0.98       134
+
+    accuracy                           0.98       272
+   macro avg       0.98      0.98      0.98       272
+weighted avg       0.98      0.98      0.98       272
+
+INFO:root:Epoch 0, MSE: 0.2320529976340098
+INFO:root:Epoch 100, MSE: 0.059778234559843275
+INFO:root:Epoch 200, MSE: 0.04499959705022777
+INFO:root:Epoch 300, MSE: 0.037406034871865994
+INFO:root:Epoch 400, MSE: 0.033074894269586236
+INFO:root:Epoch 500, MSE: 0.030556868134324417
+INFO:root:Epoch 600, MSE: 0.028044386607491742
+INFO:root:Epoch 700, MSE: 0.026119514248809615
+INFO:root:Epoch 800, MSE: 0.02486178405797374
+INFO:root:Epoch 900, MSE: 0.02366814779715592
+INFO:root:Epoch 1000, MSE: 0.022701458488614348
+INFO:root:Epoch 1100, MSE: 0.02182445855587713
+INFO:root:Epoch 1200, MSE: 0.021184420189110233
+INFO:root:Epoch 1300, MSE: 0.020449966699352673
+INFO:root:Epoch 1400, MSE: 0.019805777848744148
+INFO:root:Trial with learning_rate=0.01, epochs=1500, MSE=0.011029411764705883
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.98      1.00      0.99       138
+        True       1.00      0.98      0.99       134
+
+    accuracy                           0.99       272
+   macro avg       0.99      0.99      0.99       272
+weighted avg       0.99      0.99      0.99       272
+
+INFO:root:Epoch 0, MSE: 0.2332906729264662
+INFO:root:Epoch 100, MSE: 0.05935813700209079
+INFO:root:Epoch 200, MSE: 0.04439245488739475
+INFO:root:Epoch 300, MSE: 0.03782937026830272
+INFO:root:Epoch 400, MSE: 0.03284711684399814
+INFO:root:Epoch 500, MSE: 0.03023934443415172
+INFO:root:Epoch 600, MSE: 0.027783736948033
+INFO:root:Epoch 700, MSE: 0.02606207645422462
+INFO:root:Epoch 800, MSE: 0.024749131885776283
+INFO:root:Epoch 900, MSE: 0.02372490739181396
+INFO:root:Epoch 1000, MSE: 0.02249945794006762
+INFO:root:Epoch 1100, MSE: 0.021763201752489785
+INFO:root:Epoch 1200, MSE: 0.020963801308860445
+INFO:root:Epoch 1300, MSE: 0.02034584138154078
+INFO:root:Epoch 1400, MSE: 0.019573945917915305
+INFO:root:Epoch 1500, MSE: 0.019295288002798144
+INFO:root:Epoch 1600, MSE: 0.0187710458436284
+INFO:root:Epoch 1700, MSE: 0.018220256804862552
+INFO:root:Epoch 1800, MSE: 0.017955151613484616
+INFO:root:Epoch 1900, MSE: 0.01752517695331536
+INFO:root:Trial with learning_rate=0.01, epochs=2000, MSE=0.011029411764705883
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.98      1.00      0.99       138
+        True       1.00      0.98      0.99       134
+
+    accuracy                           0.99       272
+   macro avg       0.99      0.99      0.99       272
+weighted avg       0.99      0.99      0.99       272
+
+INFO:root:Epoch 0, MSE: 0.15617177250138442
+INFO:root:Epoch 100, MSE: 0.02341398198972916
+INFO:root:Epoch 200, MSE: 0.019713380388730384
+INFO:root:Epoch 300, MSE: 0.01566692512565618
+INFO:root:Epoch 400, MSE: 0.013816710142938853
+INFO:root:Epoch 500, MSE: 0.012408472338971736
+INFO:root:Epoch 600, MSE: 0.010484492909858372
+INFO:root:Epoch 700, MSE: 0.010156976578087241
+INFO:root:Epoch 800, MSE: 0.009152496659182892
+INFO:root:Epoch 900, MSE: 0.009137627227332648
+INFO:root:Trial with learning_rate=0.1, epochs=1000, MSE=0.003676470588235294
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      1.00      1.00       138
+        True       1.00      0.99      1.00       134
+
+    accuracy                           1.00       272
+   macro avg       1.00      1.00      1.00       272
+weighted avg       1.00      1.00      1.00       272
+
+INFO:root:Epoch 0, MSE: 0.14914979707420575
+INFO:root:Epoch 100, MSE: 0.02323472641671902
+INFO:root:Epoch 200, MSE: 0.017835017917545472
+INFO:root:Epoch 300, MSE: 0.015680285822742966
+INFO:root:Epoch 400, MSE: 0.01331312242933022
+INFO:root:Epoch 500, MSE: 0.011919579386809194
+INFO:root:Epoch 600, MSE: 0.010678371694238386
+INFO:root:Epoch 700, MSE: 0.01146624037568074
+INFO:root:Epoch 800, MSE: 0.009296535322521952
+INFO:root:Epoch 900, MSE: 0.0088502324278811
+INFO:root:Epoch 1000, MSE: 0.008824330581744396
+INFO:root:Epoch 1100, MSE: 0.008082752054164121
+INFO:root:Epoch 1200, MSE: 0.007586120826280124
+INFO:root:Epoch 1300, MSE: 0.007536581672200434
+INFO:root:Epoch 1400, MSE: 0.006918594059008125
+INFO:root:Trial with learning_rate=0.1, epochs=1500, MSE=0.003676470588235294
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      1.00      1.00       138
+        True       1.00      0.99      1.00       134
+
+    accuracy                           1.00       272
+   macro avg       1.00      1.00      1.00       272
+weighted avg       1.00      1.00      1.00       272
+
+INFO:root:Epoch 0, MSE: 0.15312026021812766
+INFO:root:Epoch 100, MSE: 0.023262255011137753
+INFO:root:Epoch 200, MSE: 0.0185209668752443
+INFO:root:Epoch 300, MSE: 0.015098009879139824
+INFO:root:Epoch 400, MSE: 0.013026667394052007
+INFO:root:Epoch 500, MSE: 0.012428725391061915
+INFO:root:Epoch 600, MSE: 0.010466924671925802
+INFO:root:Epoch 700, MSE: 0.011377018977396184
+INFO:root:Epoch 800, MSE: 0.009846163002516799
+INFO:root:Epoch 900, MSE: 0.009563931878905684
+INFO:root:Epoch 1000, MSE: 0.008292047994496588
+INFO:root:Epoch 1100, MSE: 0.007983633554636174
+INFO:root:Epoch 1200, MSE: 0.007863159910515104
+INFO:root:Epoch 1300, MSE: 0.007501150101993279
+INFO:root:Epoch 1400, MSE: 0.006958806643097912
+INFO:root:Epoch 1500, MSE: 0.007424151652383909
+INFO:root:Epoch 1600, MSE: 0.006607905350694571
+INFO:root:Epoch 1700, MSE: 0.00696187886439141
+INFO:root:Epoch 1800, MSE: 0.006141678865649821
+INFO:root:Epoch 1900, MSE: 0.006142813691165012
+INFO:root:Trial with learning_rate=0.1, epochs=2000, MSE=0.007352941176470588
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      1.00      0.99       138
+        True       1.00      0.99      0.99       134
+
+    accuracy                           0.99       272
+   macro avg       0.99      0.99      0.99       272
+weighted avg       0.99      0.99      0.99       272
+
+INFO:root:Epoch 0, MSE: 0.08984285205913606
+INFO:root:Epoch 100, MSE: 0.011895105428720125
+INFO:root:Epoch 200, MSE: 0.008108861836671399
+INFO:root:Epoch 300, MSE: 0.008706308335950323
+INFO:root:Epoch 400, MSE: 0.006425773343969073
+INFO:root:Epoch 500, MSE: 0.0102382842266361
+INFO:root:Epoch 600, MSE: 0.005143688222644402
+INFO:root:Epoch 700, MSE: 0.007089263068921378
+INFO:root:Epoch 800, MSE: 0.0053904277379508755
+INFO:root:Epoch 900, MSE: 0.003643982876918431
+INFO:root:Trial with learning_rate=0.5, epochs=1000, MSE=0.003676470588235294
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      1.00      1.00       138
+        True       1.00      0.99      1.00       134
+
+    accuracy                           1.00       272
+   macro avg       1.00      1.00      1.00       272
+weighted avg       1.00      1.00      1.00       272
+
+INFO:root:Epoch 0, MSE: 0.10045954236945935
+INFO:root:Epoch 100, MSE: 0.014219388630039406
+INFO:root:Epoch 200, MSE: 0.011844291548881933
+INFO:root:Epoch 300, MSE: 0.0075570109080189685
+INFO:root:Epoch 400, MSE: 0.008266160313820995
+INFO:root:Epoch 500, MSE: 0.005115629547183222
+INFO:root:Epoch 600, MSE: 0.004466848686211025
+INFO:root:Epoch 700, MSE: 0.006785846148605163
+INFO:root:Epoch 800, MSE: 0.0036987058342952063
+INFO:root:Epoch 900, MSE: 0.0034510232448058406
+INFO:root:Epoch 1000, MSE: 0.003823170742027962
+INFO:root:Epoch 1100, MSE: 0.0030869707042550923
+INFO:root:Epoch 1200, MSE: 0.003301337275653444
+INFO:root:Epoch 1300, MSE: 0.0032436983182170817
+INFO:root:Epoch 1400, MSE: 0.0029423212166658228
+INFO:root:Trial with learning_rate=0.5, epochs=1500, MSE=0.0
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       138
+        True       1.00      1.00      1.00       134
+
+    accuracy                           1.00       272
+   macro avg       1.00      1.00      1.00       272
+weighted avg       1.00      1.00      1.00       272
+
+INFO:root:Epoch 0, MSE: 0.14068071976762675
+INFO:root:Epoch 100, MSE: 0.02411020180686682
+INFO:root:Epoch 200, MSE: 0.008331246017420187
+INFO:root:Epoch 300, MSE: 0.010596878151454396
+INFO:root:Epoch 400, MSE: 0.0060257799890776065
+INFO:root:Epoch 500, MSE: 0.005031984300201503
+INFO:root:Epoch 600, MSE: 0.004882949010786343
+INFO:root:Epoch 700, MSE: 0.0044733213083726795
+INFO:root:Epoch 800, MSE: 0.003975569646652018
+INFO:root:Epoch 900, MSE: 0.006961137609080929
+INFO:root:Epoch 1000, MSE: 0.0038763814027782525
+INFO:root:Epoch 1100, MSE: 0.004330394040547945
+INFO:root:Epoch 1200, MSE: 0.003401431777533606
+INFO:root:Epoch 1300, MSE: 0.003091432990373703
+INFO:root:Epoch 1400, MSE: 0.0026814587386787686
+INFO:root:Epoch 1500, MSE: 0.002377520120592449
+INFO:root:Epoch 1600, MSE: 0.0027404179101366316
+INFO:root:Epoch 1700, MSE: 0.00285901562637857
+INFO:root:Epoch 1800, MSE: 0.0021704757231109793
+INFO:root:Epoch 1900, MSE: 0.0022318411151513186
+INFO:root:Trial with learning_rate=0.5, epochs=2000, MSE=0.003676470588235294
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       1.00      0.99      1.00       138
+        True       0.99      1.00      1.00       134
+
+    accuracy                           1.00       272
+   macro avg       1.00      1.00      1.00       272
+weighted avg       1.00      1.00      1.00       272
+
+INFO:root:Epoch 0, MSE: 0.19916312677937908
+INFO:root:Epoch 100, MSE: 0.040057116477029926
+INFO:root:Epoch 200, MSE: 0.03189081125551958
+INFO:root:Epoch 300, MSE: 0.028279966358324898
+INFO:root:Epoch 400, MSE: 0.02574327263480173
+INFO:root:Epoch 500, MSE: 0.024303555217823652
+INFO:root:Epoch 600, MSE: 0.022743140141938976
+INFO:root:Epoch 700, MSE: 0.02191497469549864
+INFO:root:Epoch 800, MSE: 0.020858548658355062
+INFO:root:Epoch 900, MSE: 0.020265231356784947
+INFO:root:Trial with learning_rate=0.01, epochs=1000, MSE=0.010119595216191352
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      0.99      0.99       567
+        True       0.99      0.99      0.99       520
+
+    accuracy                           0.99      1087
+   macro avg       0.99      0.99      0.99      1087
+weighted avg       0.99      0.99      0.99      1087
+
+INFO:root:Epoch 0, MSE: 0.19904697276108052
+INFO:root:Epoch 100, MSE: 0.039845232160705034
+INFO:root:Epoch 200, MSE: 0.03217584635667341
+INFO:root:Epoch 300, MSE: 0.028120827921423848
+INFO:root:Epoch 400, MSE: 0.02580896473860807
+INFO:root:Epoch 500, MSE: 0.024453454191499333
+INFO:root:Epoch 600, MSE: 0.022721153389659257
+INFO:root:Epoch 700, MSE: 0.02188824272294057
+INFO:root:Epoch 800, MSE: 0.02090844220075146
+INFO:root:Epoch 900, MSE: 0.02012899171054922
+INFO:root:Epoch 1000, MSE: 0.01955058855273817
+INFO:root:Epoch 1100, MSE: 0.01896030870828167
+INFO:root:Epoch 1200, MSE: 0.018645714772491103
+INFO:root:Epoch 1300, MSE: 0.01804445578525041
+INFO:root:Epoch 1400, MSE: 0.017584113746552152
+INFO:root:Trial with learning_rate=0.01, epochs=1500, MSE=0.00827966881324747
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      0.99      0.99       567
+        True       0.99      0.99      0.99       520
+
+    accuracy                           0.99      1087
+   macro avg       0.99      0.99      0.99      1087
+weighted avg       0.99      0.99      0.99      1087
+
+INFO:root:Epoch 0, MSE: 0.19960939145892195
+INFO:root:Epoch 100, MSE: 0.03971524488511563
+INFO:root:Epoch 200, MSE: 0.032131199264048886
+INFO:root:Epoch 300, MSE: 0.028209180427371566
+INFO:root:Epoch 400, MSE: 0.025757275163425002
+INFO:root:Epoch 500, MSE: 0.02406904346245215
+INFO:root:Epoch 600, MSE: 0.022998927221252484
+INFO:root:Epoch 700, MSE: 0.02177645200004633
+INFO:root:Epoch 800, MSE: 0.021047428330396536
+INFO:root:Epoch 900, MSE: 0.020242374812595627
+INFO:root:Epoch 1000, MSE: 0.019645331959387176
+INFO:root:Epoch 1100, MSE: 0.01902850313503458
+INFO:root:Epoch 1200, MSE: 0.018637869505585596
+INFO:root:Epoch 1300, MSE: 0.01795739826845622
+INFO:root:Epoch 1400, MSE: 0.01784169156852625
+INFO:root:Epoch 1500, MSE: 0.017251381641771084
+INFO:root:Epoch 1600, MSE: 0.01706915350645166
+INFO:root:Epoch 1700, MSE: 0.016782669179431865
+INFO:root:Epoch 1800, MSE: 0.016410046503383985
+INFO:root:Epoch 1900, MSE: 0.016155106161419307
+INFO:root:Trial with learning_rate=0.01, epochs=2000, MSE=0.007359705611775529
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      0.99      0.99       567
+        True       0.99      0.99      0.99       520
+
+    accuracy                           0.99      1087
+   macro avg       0.99      0.99      0.99      1087
+weighted avg       0.99      0.99      0.99      1087
+
+INFO:root:Epoch 0, MSE: 0.10269049035053888
+INFO:root:Epoch 100, MSE: 0.02047079754327794
+INFO:root:Epoch 200, MSE: 0.015863685492846773
+INFO:root:Epoch 300, MSE: 0.013925303526693638
+INFO:root:Epoch 400, MSE: 0.01275734997268709
+INFO:root:Epoch 500, MSE: 0.011716083817472737
+INFO:root:Epoch 600, MSE: 0.011363266080775076
+INFO:root:Epoch 700, MSE: 0.012166383986988515
+INFO:root:Epoch 800, MSE: 0.010193812597995114
+INFO:root:Epoch 900, MSE: 0.010017677525574711
+INFO:root:Trial with learning_rate=0.1, epochs=1000, MSE=0.006439742410303588
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      1.00      0.99       567
+        True       1.00      0.99      0.99       520
+
+    accuracy                           0.99      1087
+   macro avg       0.99      0.99      0.99      1087
+weighted avg       0.99      0.99      0.99      1087
+
+INFO:root:Epoch 0, MSE: 0.09055458584802253
+INFO:root:Epoch 100, MSE: 0.02223770508464969
+INFO:root:Epoch 200, MSE: 0.016077030599576027
+INFO:root:Epoch 300, MSE: 0.013945670082416836
+INFO:root:Epoch 400, MSE: 0.012849044674786522
+INFO:root:Epoch 500, MSE: 0.011702122892015377
+INFO:root:Epoch 600, MSE: 0.011153639077482541
+INFO:root:Epoch 700, MSE: 0.011364660023393243
+INFO:root:Epoch 800, MSE: 0.011750231215702981
+INFO:root:Epoch 900, MSE: 0.010017334631474667
+INFO:root:Epoch 1000, MSE: 0.00930200286508296
+INFO:root:Epoch 1100, MSE: 0.009524482121946745
+INFO:root:Epoch 1200, MSE: 0.009092826884054574
+INFO:root:Epoch 1300, MSE: 0.008816009640560105
+INFO:root:Epoch 1400, MSE: 0.009308346210628118
+INFO:root:Trial with learning_rate=0.1, epochs=1500, MSE=0.0027598896044158236
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       567
+        True       1.00      1.00      1.00       520
+
+    accuracy                           1.00      1087
+   macro avg       1.00      1.00      1.00      1087
+weighted avg       1.00      1.00      1.00      1087
+
+INFO:root:Epoch 0, MSE: 0.09076682208864326
+INFO:root:Epoch 100, MSE: 0.020655205365855214
+INFO:root:Epoch 200, MSE: 0.015634241312953028
+INFO:root:Epoch 300, MSE: 0.01398740181776418
+INFO:root:Epoch 400, MSE: 0.013940066784575772
+INFO:root:Epoch 500, MSE: 0.012162188294537923
+INFO:root:Epoch 600, MSE: 0.010901546142421207
+INFO:root:Epoch 700, MSE: 0.010464247774908286
+INFO:root:Epoch 800, MSE: 0.011847593103076754
+INFO:root:Epoch 900, MSE: 0.010057150965066626
+INFO:root:Epoch 1000, MSE: 0.01090682910334103
+INFO:root:Epoch 1100, MSE: 0.00906493602515029
+INFO:root:Epoch 1200, MSE: 0.008809931419349352
+INFO:root:Epoch 1300, MSE: 0.008837980578341276
+INFO:root:Epoch 1400, MSE: 0.008360908379824731
+INFO:root:Epoch 1500, MSE: 0.009413129449922833
+INFO:root:Epoch 1600, MSE: 0.007970550942302418
+INFO:root:Epoch 1700, MSE: 0.007835123377694118
+INFO:root:Epoch 1800, MSE: 0.007684485519910289
+INFO:root:Epoch 1900, MSE: 0.007339828842285155
+INFO:root:Trial with learning_rate=0.1, epochs=2000, MSE=0.0036798528058877645
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       0.99      1.00      1.00       567
+        True       1.00      0.99      1.00       520
+
+    accuracy                           1.00      1087
+   macro avg       1.00      1.00      1.00      1087
+weighted avg       1.00      1.00      1.00      1087
+
+INFO:root:Epoch 0, MSE: 0.055187335306737924
+INFO:root:Epoch 100, MSE: 0.012766145289086839
+INFO:root:Epoch 200, MSE: 0.01778829069573253
+INFO:root:Epoch 300, MSE: 0.007788709590627017
+INFO:root:Epoch 400, MSE: 0.0073139009624057835
+INFO:root:Epoch 500, MSE: 0.009206472135541377
+INFO:root:Epoch 600, MSE: 0.01159423763095273
+INFO:root:Epoch 700, MSE: 0.005570659456572425
+INFO:root:Epoch 800, MSE: 0.009782547118247843
+INFO:root:Epoch 900, MSE: 0.005139764139535903
+INFO:root:Trial with learning_rate=0.5, epochs=1000, MSE=0.00919963201471941
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       1.00      0.98      0.99       567
+        True       0.98      1.00      0.99       520
+
+    accuracy                           0.99      1087
+   macro avg       0.99      0.99      0.99      1087
+weighted avg       0.99      0.99      0.99      1087
+
+INFO:root:Epoch 0, MSE: 0.06390606787192704
+INFO:root:Epoch 100, MSE: 0.013525354090403032
+INFO:root:Epoch 200, MSE: 0.00932879651145698
+INFO:root:Epoch 300, MSE: 0.008675632672895577
+INFO:root:Epoch 400, MSE: 0.007242712864144396
+INFO:root:Epoch 500, MSE: 0.011299699335898677
+INFO:root:Epoch 600, MSE: 0.006321570308543119
+INFO:root:Epoch 700, MSE: 0.0073827065723160975
+INFO:root:Epoch 800, MSE: 0.00653696215838188
+INFO:root:Epoch 900, MSE: 0.005805322554618585
+INFO:root:Epoch 1000, MSE: 0.012239609683921184
+INFO:root:Epoch 1100, MSE: 0.004939351643480813
+INFO:root:Epoch 1200, MSE: 0.005808820107871784
+INFO:root:Epoch 1300, MSE: 0.004284682429329537
+INFO:root:Epoch 1400, MSE: 0.003969478586606613
+INFO:root:Trial with learning_rate=0.5, epochs=1500, MSE=0.0018399264029438822
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       567
+        True       1.00      1.00      1.00       520
+
+    accuracy                           1.00      1087
+   macro avg       1.00      1.00      1.00      1087
+weighted avg       1.00      1.00      1.00      1087
+
+INFO:root:Epoch 0, MSE: 0.07760274570167586
+INFO:root:Epoch 100, MSE: 0.014155998551650546
+INFO:root:Epoch 200, MSE: 0.016444880563602517
+INFO:root:Epoch 300, MSE: 0.009701395691748424
+INFO:root:Epoch 400, MSE: 0.008895575469884632
+INFO:root:Epoch 500, MSE: 0.008626341784444215
+INFO:root:Epoch 600, MSE: 0.0071902905568880645
+INFO:root:Epoch 700, MSE: 0.010056917628071945
+INFO:root:Epoch 800, MSE: 0.00567642396894628
+INFO:root:Epoch 900, MSE: 0.00569840478692471
+INFO:root:Epoch 1000, MSE: 0.005091976692231691
+INFO:root:Epoch 1100, MSE: 0.00484759154433915
+INFO:root:Epoch 1200, MSE: 0.004716389473649561
+INFO:root:Epoch 1300, MSE: 0.004425396377485485
+INFO:root:Epoch 1400, MSE: 0.004197319401872265
+INFO:root:Epoch 1500, MSE: 0.0060745900380374425
+INFO:root:Epoch 1600, MSE: 0.004147333126177802
+INFO:root:Epoch 1700, MSE: 0.004309665742838772
+INFO:root:Epoch 1800, MSE: 0.0036172937067315194
+INFO:root:Epoch 1900, MSE: 0.003825311596672803
+INFO:root:Trial with learning_rate=0.5, epochs=2000, MSE=0.0018399264029438822
+INFO:root:Classification report:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       567
+        True       1.00      1.00      1.00       520
+
+    accuracy                           1.00      1087
+   macro avg       1.00      1.00      1.00      1087
+weighted avg       1.00      1.00      1.00      1087
+
+INFO:root:Best settings found: learning_rate=0.5, epochs=1500, MSE=0.0018399264029438822
+INFO:root:Classification report for best settings:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       567
+        True       1.00      1.00      1.00       520
+
+    accuracy                           1.00      1087
+   macro avg       1.00      1.00      1.00      1087
+weighted avg       1.00      1.00      1.00      1087
+
